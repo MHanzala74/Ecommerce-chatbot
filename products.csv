@@ -1,0 +1,9 @@
+id,name,brand,price,ram,storage,battery,processor,city_availability
+1,Dell Inspiron 15,Dell,85000,8GB,512GB SSD,5 hours,i5 11th Gen,"Lahore,Karachi"
+2,HP Pavilion 14,HP,98000,16GB,1TB SSD,7 hours,i7 10th Gen,"Lahore,Islamabad"
+3,Lenovo Ideapad Slim 3,Lenovo,72000,8GB,256GB SSD,6 hours,Ryzen 5,"Karachi,Peshawar"
+4,Acer Aspire 5,Acer,95000,16GB,512GB SSD,8 hours,i5 12th Gen,"Lahore,Karachi,Multan"
+5,Asus Vivobook 15,Asus,105000,16GB,512GB SSD,9 hours,i7 12th Gen,"Islamabad,Rawalpindi"
+6,Apple MacBook Air M1,Apple,170000,8GB,256GB SSD,15 hours,M1 Chip,"Karachi,Lahore"
+7,MSI Modern 14,MSI,98000,16GB,512GB SSD,6 hours,Ryzen 7,"Lahore,Faisalabad"
+8,Haier Y11 Laptop,Haier,49000,4GB,128GB SSD,4 hours,Celeron,"All Cities"
